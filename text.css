@@ -91,6 +91,7 @@ img {
   width: 100%;
   display: block;
   height: inherit;
+  object-fit: cover;
 }
 
 /* STATUS bar */
