@@ -165,6 +165,7 @@ footer p a:hover {
 .outlined {
   outline: solid 2px #34495e;
   background: #9b59b6;
+  object-fit: cover;
 }
 
 /* PRE modal window */
